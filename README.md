@@ -51,3 +51,5 @@ Em uma implementação real, o sistema poderia ser conectado a um sensor físico
 
 Kauã Fernandez  
 Projeto desenvolvido para a disciplina de Sistemas Digitais & Microprocessadores.
+
+pages: https://kfndz.github.io/Digital-Circuit/
