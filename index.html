@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Termômetro Digital</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <h1>Temperatura da Sala</h1>
+
+    <div id="display7seg">00.0</div>
+
+    <button onclick="medirTemperatura()">Medir Temperatura</button>
+
+    <div id="status">
+      Última medição: <span id="ultimaMedicao">--</span>
+      <br></br>
+      <button onclick="iniciarMedicao()">Iniciar</button>
+      <button onclick="pararMedicao()">Parar</button>
+    </div>
+
+    <script src="js/sensor.js"></script>
+    <script src="js/circuito.js"></script>
+    <script src="js/display.js"></script>
+  </body>
+</html>
