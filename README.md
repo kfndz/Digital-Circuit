@@ -53,3 +53,16 @@ Kauã Fernandez
 Projeto desenvolvido para a disciplina de Sistemas Digitais & Microprocessadores.
 
 pages: https://kfndz.github.io/Digital-Circuit/
+
+## 🔌 Hardware (Simulação)
+
+Este projeto também possui uma simulação de circuito utilizando Arduino.
+
+Componentes utilizados:
+- Arduino Uno
+- Protoboard
+- Sensor de temperatura
+- LED indicador de funcionamento
+
+🔗 Simulação no Tinkercad:
+https://www.tinkercad.com/things/0sVrJjWDl2p-digital-circuit
