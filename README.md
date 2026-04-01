@@ -66,3 +66,6 @@ Componentes utilizados:
 
 🔗 Simulação no Tinkercad:
 https://www.tinkercad.com/things/0sVrJjWDl2p-digital-circuit
+
+### 📷 Imagem do circuito
+![Circuito](digital_circuit.png)
